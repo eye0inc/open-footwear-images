@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>6906176827_d75dfca651_c.jpg</filename>
+	<path>/Users/kevincollins/datahub/footwear/data/6906176827_d75dfca651_c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>footwear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>640</ymin>
+			<xmax>369</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>
